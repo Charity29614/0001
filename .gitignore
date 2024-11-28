@@ -59,7 +59,11 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+*.unitypackage.meta
 *.app
+
+# Exclude all .meta files
+*.meta
 
 # Crashlytics generated file
 crashlytics-build.properties
