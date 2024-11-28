@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710695325258",
+    "project_id": "baseattack-2aef4",
+    "storage_bucket": "baseattack-2aef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710695325258:android:5b1f68b0d4fc59f91920b3",
+        "android_client_info": {
+          "package_name": "com.BloomStudiosInc.Experiment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW95-VdUJaoZa7zCSGFu_6y42b2tcINVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
